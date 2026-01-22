@@ -1,1 +1,1 @@
-# FUTURE_DS_03
+I worked on a data analytics project focused on analyzing student event feedback survey data to understand satisfaction levels and identify areas for improvement in college events.The project involved cleaning and analyzing survey responses to uncover satisfaction trends, common feedback patterns, and key factors influencing student experience. Using data visualization and analytical techniques, actionable insights were generated to help improve future event planning and engagement.# FUTURE_DS_03
